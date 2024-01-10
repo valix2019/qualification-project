@@ -1,0 +1,14 @@
+{
+  message: string;
+  data: {
+    id: int;
+    is_active: boolean;
+    name:string;
+    email: string;
+    email_verified_at: timestamp;
+    created_at: timestamp;
+    updated_at: timestamp;
+    photo_url:string
+  };
+  success: boolean;
+}

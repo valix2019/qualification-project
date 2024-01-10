@@ -1,0 +1,7 @@
+import './axios'
+import './fontawesome'
+import './bootstrap-vue'
+import './vue-mathjax'
+import './vue-fragment'
+import './vee-validate'
+import 'bootstrap'
